@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fbl+3dJDG8=",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Projeto C#\\FunTranslations\\FunTranslations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\restsharp\\111.2.0\\restsharp.111.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
